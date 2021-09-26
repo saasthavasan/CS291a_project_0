@@ -1,0 +1,95 @@
+#pageTitle {
+    /*background-color: saddlebrown;*/
+    background-color: #293039;
+    height: 150px;
+    /*text-align: center;*/
+    padding-left: 10px;
+    /*border:1px solid black;*/
+}
+
+h1 {
+    margin: 0px;
+    font-family: "Lucida Console", monospace;
+    top:200px;
+    left:0px;
+    position:Absolute;
+
+    /*line-height: 200px;*/
+    color: orange;
+
+}
+
+#logo{
+	height:100px;
+	padding-left: 40%;
+	background-color: #293039; 
+}
+
+/*Inside navigation box*/
+
+li {
+    padding: 10px;
+    display: inline;
+    background: chocolate;     
+    border: 3px solid black;
+
+}
+
+/* Navigation bar */
+#navBar {
+ 
+   	/*position: fixed;*/
+	position: absolute;
+    	top: 200px;
+    	right: 0px;
+		
+}
+
+/* Navigation bar text */
+a {
+    
+    text-decoration: none;
+    color: black;
+}
+
+
+/* Html body */
+body {
+    background-color: rgb(209, 162, 98);
+    margin: 0px;
+}
+
+
+
+/*Body Title*/
+h2 {
+    padding-top:40px;
+    padding-left: 5px;
+}
+
+/* Body Text */
+.bodyText {
+    color: #5b120c;
+    padding-left: 0px;
+    
+}
+
+td, th {
+  border: 2px solid black;
+  padding: 0.5rem;
+  background:chocolate;
+}
+
+table {
+  border-spacing: 0.5rem;
+}
+
+/* Copyright Text */
+#copyright {
+    width: 100%;
+    text-align: center;
+}
+
+a {
+	color: darkgreen;
+}
